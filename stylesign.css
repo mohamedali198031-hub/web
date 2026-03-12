@@ -1,0 +1,81 @@
+
+ body{
+
+background-color: rgb(226, 226, 226);
+    margin:0;
+}
+
+
+h1{
+    margin-left:20px;
+      font-family: "Bitcount Prop Double Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+form{
+    width:430px;
+    margin:80px auto;
+    background:#FFFFFF;
+    padding:30px;
+    border-radius:10px;
+
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+    border:1px solid #CBD5E1;
+    border-radius:5px;
+    background-color: #F1F5F9;
+}
+.b1{
+    float: right;
+    padding: 20px;
+    margin:20px auto;
+      font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+    color: #6366F1;
+}
+.b2{
+    float: right;
+    padding: 20px;
+    margin:20px auto;
+      font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  color: #6366F1;
+}
+label{
+
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #0F172A;
+}
+.b3{
+
+   color: #4F46E5;
+
+
+      font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+
+}
+a{
+     text-decoration: none;
+  color: #6366F1;
+}
+p{
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
